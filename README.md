@@ -14,7 +14,7 @@ The project was developed as a comprehensive exercise in GUI design, database ma
 ### Key Features
 * **User Interface:** Built entirely with the **Tkinter** library.
 * **Data Storage:** Utilizes **Excel (.xlsx)** as a lightweight database for record-keeping.
-* **Security:** Implements password encryption using **SHA-256** and other cryptographic methods to ensure user data remains protected.
+* **Security:** Implements password encryption using **Argon2,** **SHA-256** and other cryptographic methods to ensure user data remains protected.
 * **Timeline:** Project developed and finalized between **December 2019 and May 2020**.
 
 ---
@@ -23,7 +23,7 @@ The project was developed as a comprehensive exercise in GUI design, database ma
 * **Language:** Python 3.x
 * **GUI Framework:** Tkinter
 * **Database:** Microsoft Excel (openpyxl/pandas)
-* **Security:** Hashlib (SHA-256)
+* **Security:** Hashlib (Argon2, SHA-256)
 
 ---
 
