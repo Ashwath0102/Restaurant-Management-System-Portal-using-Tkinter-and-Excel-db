@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-blue)
 ![Excel](https://img.shields.io/badge/Database-Excel%20DB-217346?logo=microsoft-excel&logoColor=white)
-![SHA-256](https://img.shields.io/badge/Security-SHA--256%20Encryption-red)
+![SHA-256](https://img.shields.io/badge/Security-Argon2/SHA--256%20Encryption-red)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
 ## 📌 Project Overview
